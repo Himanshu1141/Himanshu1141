@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> <style>yaha peh hum styling karteh hai </style>
+    
+</style>
+    <h1>|Contact Information|</h1>
+    <p>Name <input type="text" name="" id=""></p>
+    <fieldset>
+        <legend>Gender</legend>
+        <p>Male <input type="radio" name="Gender" id="Male">
+           Female <input type="radio" name="Gender" id="Female"></p>
+    </fieldset>
+    <p>Address <input type="text" name="" id=""></p>
+    <p>Email <input type="email" name="" id=""></p>
+    <p>Pincode <input type="number" name="" id=""></p>
+    <h1>|Payment Information|</h1>
+    
+    <p>Card Number <input type="number" name="Card Number" id="Card Number"></p>
+    <p>Expiration Date <input type="date" name="Exp_Date" id="Exp_Date"></p>
+    <p>CVV <input type="password" name="CVV" id="CVV"></p>
+    <p><input type="submit" value="Pay Now"></p>
+
+</body>
+</html>
